@@ -10,6 +10,7 @@
         <create_access_controls>true</create_access_controls>
         <delete_access>false</delete_access>
         <extension_model>class</extension_model>
+        <is_document_table>false</is_document_table>
         <is_extendable>false</is_extendable>
         <label>NeedIt</label>
         <live_feed_enabled>false</live_feed_enabled>
